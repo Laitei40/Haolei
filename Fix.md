@@ -1,1 +1,2 @@
-%LOCALAPPDATA%\Microsoft\Edge
+
+DISM /Online /Cleanup-Image /RestoreHealth
